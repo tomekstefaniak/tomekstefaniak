@@ -1,4 +1,5 @@
-## Jeśli to czytasz to już jesteś ugotowany
+## Jeśli to czytasz już jesteś ugotowany
+Pozdrawiam Wojciecha Typera, wiem że wszedłeś na mój profil!
 
 <!--
 **tomekstefaniak/tomekstefaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
