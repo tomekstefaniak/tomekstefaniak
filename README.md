@@ -1,4 +1,4 @@
-## Hi there 👋
+## Pozdrawiam Wojciecha Typera który to czyta
 
 <!--
 **tomekstefaniak/tomekstefaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
