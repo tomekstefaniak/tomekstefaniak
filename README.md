@@ -1,5 +1,5 @@
 ## Jeśli to czytasz, już jesteś ugotowany 🤯
-Pozdrawiam Cię Wojciechu Typerze, bo wiem że właśnie rutynowo wszedłeś na mój profil.
+Pozdrawiam Cię Wojciechu Typerze, wiem że właśnie rutynowo wszedłeś na mój profil.
 
 ## Best White Girl Music 💘 Playlist on Spotify:
 https://open.spotify.com/playlist/5rnzIPHYvTKgslpqoAzN4L
