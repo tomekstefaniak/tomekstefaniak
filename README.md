@@ -1,4 +1,4 @@
-## Życzę Ci miłego dnia!
+# Życzę Ci miłego dnia!
 
 <!--
 **tomekstefaniak/tomekstefaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
