@@ -2,3 +2,5 @@
 ---
 I am passionate about programming and currently studying at the Wroclaw University of Technology. <br> 
 For more, please check out my [website](https://tomekstefaniak.dev)!
+
+## Pozdrowienia dla Wojciecha Typera rutynowo przeglądającego mój profil
