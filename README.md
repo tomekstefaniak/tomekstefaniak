@@ -2,7 +2,7 @@
 ---
 I am passionate about programming and currently studying </br>
 Algorithmic Computer Science at the Wroclaw University of Technology. </br>
-Feel free to check out my [website with resume](https://tomekstefaniak.dev)!
+Feel free to check out my [website](https://tomekstefaniak.dev)!
 
 ### My primary technologies:
 
