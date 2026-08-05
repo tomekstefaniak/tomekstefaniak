@@ -1,7 +1,7 @@
 # Tomek Stefaniak
 
 Algorithmic Computer Science @ Wrocław University of Science and Technology </br>
-[tomekstefaniak.dev](https://tomekstefaniak.dev)
+[tomekstefaniak.me](https://tomekstefaniak.me)
 
 ---
 
